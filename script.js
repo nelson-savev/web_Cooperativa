@@ -1,4 +1,3 @@
-
 const images = ["img/queso1.jpeg", "img/queso2.jpeg"];
 let currentIndex = 0;
 
